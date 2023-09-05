@@ -13,5 +13,14 @@
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.3",
     "gulp-open": "^2.1.0"
+  },
+  "dependencies": {
+    "angular": "^1.8.3",
+    "babel": "^6.23.0",
+    "moment": "^2.29.4",
+    "pino": "^8.15.0",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.16.0",
+    "typescript": "^5.2.2"
   }
 }
